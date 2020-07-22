@@ -10,7 +10,6 @@ import Data.CatList (CatList)
 import Data.CatList as CL
 import Data.Char (toCharCode)
 import Data.Foldable (elem, fold, foldr, surround)
-import Data.Int (Parity(..))
 import Data.Map (Map, lookup, fromFoldable)
 import Data.Maybe (Maybe(..), fromMaybe)
 import Data.Monoid (guard)
